@@ -39,9 +39,6 @@ a.button:hover{
 }
 ul.big-container {
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-
 }
 .bottom-button{
     display: flex;
@@ -57,4 +54,7 @@ p{
 
 ol{
     width: 50%;
+}
+ul{
+    padding-left: 0;
 }
